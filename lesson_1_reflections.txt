@@ -1,0 +1,39 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+The task goal is to check for differences in files
+I used Git Bash which seemed more conviniet as a unix style tool
+I could see the exactlines with sublime unlike emacs 
+I am growing better as I learn better that as I frist did tis course though this time in response to projects I must do
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+I can see how my software evolves 
+I can restore changes if I made an error
+I can collaborate with others as I can always go back to my previous version if all things go warry
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+pro's 
+Logical changes get to be committed
+You won't have clutter
+
+con's
+One may forget to commit
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+GiT is used by software engineers ,the nature of code files is that dfferent files rely on each other 
+
+How can you use the commands git log and git diff to view the history of files?
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+Use git log to see the various commits then 
+use git diff to see what changed in between the commits
+
+How might using version control make you more confident to make changes that could break something?
+
+I know I can always go back to my previous version
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I want use Git for my software engineering projects
