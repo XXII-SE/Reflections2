@@ -22,3 +22,7 @@ I know the flow of commits and if a commit am making is reachable
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result is two different versions of code are added together this includes histiry of commits'
 71f9d7b.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Manually gives you a chance to optimize the code 
+Automatic merging may introduce bugs and incoherent aglomeration of code
