@@ -4,3 +4,8 @@ When colaborating witha team
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 To avoid pulling unwarranted changes from a team you are collaborating with
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+fork btn remote repositories (when you lack permision to edit)
+Clones btn remote and local or within local repo's (to make another software using a template)
+branches btn remote , and locally (testing feature, experimenting , collaborating)
